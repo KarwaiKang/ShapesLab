@@ -1,6 +1,6 @@
 package com.company;
 
-public class Circle {
+public class Circle extends Shape {
     // Fields
     private int radius;
 
