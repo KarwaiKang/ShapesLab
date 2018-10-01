@@ -1,11 +1,12 @@
 package com.company;
 
-public class Circle {
+public class Circle extends Shape {
     // Fields
     private int radius;
 
     // Constructor
     public Circle(int inRadius) {
+        super("Circle");
         this.radius = inRadius;
     }
 
