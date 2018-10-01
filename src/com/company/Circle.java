@@ -6,6 +6,7 @@ public class Circle extends Shape {
 
     // Constructor
     public Circle(int inRadius) {
+        super("Circle");
         this.radius = inRadius;
     }
 
