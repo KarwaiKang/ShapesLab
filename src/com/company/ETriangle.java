@@ -1,7 +1,7 @@
 package com.company;
 
 public class ETriangle extends Shape {
-    //Fields
+    //Fieldss
     private int side;
 
     //Constructor
